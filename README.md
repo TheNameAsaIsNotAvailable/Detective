@@ -1,5 +1,5 @@
 # 'Detective' (2019)
-A mod for Mafia: The City of Lost Heaven (2002)
+A mod for Mafia: The City of Lost Heaven (2002).
 
 *to install, copy all files to your Mafia directory
 
